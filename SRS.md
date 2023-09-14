@@ -15,7 +15,7 @@ The online assessment for CDAC course is intended to evaluate online assessment 
 ## Scope:
 The system will allow CDAC course students to take online assessments, view results, and receive feedback.
 
-## ..* Functional Requirements:
+## Functional Requirements:
 1.How to Register
 2.Eligibility Criteria
 3.C-CAT Examination
@@ -41,9 +41,7 @@ Registered candidate would be able to view the exam landing page.
 Any anonymous candidate unable to appear the exam.
 Support Staff will be able to approve or reject request. Registered candidate can get details of examination from CDAC.
 
-##    * NonFunctional Requirement:
-        1.jhhh
-        2.jhkhkhlj
+## NonFunctional Requirement:
 1.Regarding windows switching
 No exterenel websites not accessible
 Security
