@@ -18,10 +18,9 @@ The system will allow CDAC course students to take online assessments, view resu
 ## Functional Requirements:
 
 ## 1. User Registration and Profile
-- **1.1** The system shall provide a registration interface for new candidates.
-- **1.2** Upon registration, an email containing an admission booklet shall be sent to the registered email of the candidate.
-- **1.3** Registered candidates can view the examination landing page.
-- **1.4** The system shall prevent anonymous users from accessing the examination.
+The system shall provide a registration interface for new candidates. Upon registration, an email containing an admission booklet shall be sent to the registered email of the candidate.
+ Registered candidates can view the examination landing page.
+ The system shall prevent anonymous users from accessing the examination.
 
 ## 2. Eligibility Criteria
 - **2.1** The system shall list detailed eligibility criteria for the candidates.
