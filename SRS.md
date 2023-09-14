@@ -64,17 +64,40 @@ The system shall maintain confidentiality and integrity, ensuring only authorize
 
 
 ##  NonFunctional Requirements:
-1.Regarding windows switching
-No exterenel websites not accessible
-Security
-Mic & webcam should be in good condition
-Capability(Load balancing)
 
-Availability:
-uptime: 24* 7 
+## 1. Performance
+- *1.1* The system shall support concurrent access by multiple users without degradation in response times.
+- *1.2* Load times for examination landing pages should not exceed 2 seconds under standard network conditions.
 
-Performance
-Maintainability:
-Accessibility:
-Scalability:
-Safety:
+## 2. Security
+- *2.1* User data, including personal details and examination scores, shall be encrypted both in transit and at rest.
+- *2.2* The system shall implement a secure user authentication method to prevent unauthorized access.
+- *2.3* All payment transactions should be secured using industry-standard encryption protocols.
+
+## 3. Usability
+- *3.1* The system shall offer a user-friendly interface, ensuring that users can navigate and understand functionalities without difficulty.
+- *3.2* Features should be intuitively named and organized to promote a streamlined user experience.
+
+## 4. Reliability
+- *4.1* The system shall have an uptime of 99.9% during examination periods.
+- *4.2* Regular data backups should be implemented to prevent data loss.
+
+## 5. Scalability
+- *5.1* The system should be scalable to accommodate an increasing number of users.
+- *5.2* It should handle spikes in traffic, especially during registration and examination periods.
+
+## 6. Accessibility
+- *6.1* The system should be accessible from various devices, including desktops, laptops, tablets, and mobile phones.
+- *6.2* The design should be responsive, adapting to different screen sizes and resolutions.
+
+## 7. Interoperability
+- *7.1* The system shall integrate seamlessly with other existing CDAC systems or databases if necessary.
+- *7.2* There should be capabilities for API integrations for potential future expansions or third-party tools.
+
+## 8. Maintainability
+- *8.1* The codebase should be modular and well-documented, allowing for easy maintenance and updates.
+- *8.2* Any changes or updates to the system should not cause extended downtimes.
+
+## 9. Compliance
+- *9.1* The system should comply with all relevant data protection regulations.
+- *9.2* For payment functionalities, it must adhere to financial and banking standards and regulations.
