@@ -1,4 +1,4 @@
-# Online assessment for cdac course 
+# Online Assessment For CDAC Course 
 
 ## Document:
 System Requirement Specification Document
@@ -7,7 +7,7 @@ System Requirement Specification Document
 System Requirement Specification for online assessment for CDAC courses.
 
 ## Team:
-Exam coordinator, Student(Examinee), support staff,System administrator,Backend developer, frontend developer, database developer, Quality Assurance Team, System Analyst
+Exam coordinator, Student(Examinee), Support Staff, System Administrator, Backend developer, Frontend developer, Database developer, Quality Assurance Team, System Analyst.
 
 ## Objective (Purpose):
 The online assessment for CDAC course is intended to evaluate online assessment for examination taken by the candidate appaering for CDAC courses.
@@ -18,13 +18,13 @@ The system will allow CDAC course students to take online assessments, view resu
 ## Functional Requirements:
 1.How to Register
 2.Eligibility Criteria
-C-CAT Examination
-C-CAT Syllabus
-C-CAT Examination Fee
-Counseling & Seat Allocation Process
-Seat Capacity at Training Centers
-Schedule
-Admission Booklet
+3.C-CAT Examination
+4.C-CAT Syllabus
+5.C-CAT Examination Fee
+6.Counseling & Seat Allocation Process
+7.Seat Capacity at Training Centers
+8.Schedule
+9.Admission Booklet
 every candidate (examinee)will be registered to cdac portal.
 email
 Options MCQ
@@ -42,9 +42,9 @@ Any anonymous candidate unable to appear the exam.
 Support Staff will be able to approve or reject request. Registered candidate can get details of examination from CDAC.
 
 
-## NonFunctional Requirement:
+## ⋅⋅* NonFunctional Requirement:
 
-Regarding windows switching
+1.Regarding windows switching
 No exterenel websites not accessible
 Security
 Mic & webcam should be in good condition
