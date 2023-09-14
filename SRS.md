@@ -42,7 +42,7 @@ Any anonymous candidate unable to appear the exam.
 Support Staff will be able to approve or reject request. Registered candidate can get details of examination from CDAC.
 
 
-## ⋅⋅* NonFunctional Requirement:
+## ..* NonFunctional Requirement:
 
 1.Regarding windows switching
 No exterenel websites not accessible
