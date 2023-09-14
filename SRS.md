@@ -15,7 +15,7 @@ The online assessment for CDAC course is intended to evaluate online assessment 
 ## Scope:
 The system will allow CDAC course students to take online assessments, view results, and receive feedback.
 
-## Functional Requirements:
+## ..* Functional Requirements:
 1.How to Register
 2.Eligibility Criteria
 3.C-CAT Examination
