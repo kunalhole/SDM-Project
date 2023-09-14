@@ -25,7 +25,6 @@ The system will allow CDAC course students to take online assessments, view resu
 7.Seat Capacity at Training Centers
 8.Schedule
 9.Admission Booklet
-every candidate (examinee)will be registered to cdac portal.
 email
 Options MCQ
 Notifications
@@ -41,7 +40,7 @@ Registered candidate would be able to view the exam landing page.
 Any anonymous candidate unable to appear the exam.
 Support Staff will be able to approve or reject request. Registered candidate can get details of examination from CDAC.
 
-##  NonFunctional Requirement:
+##  NonFunctional Requirements:
 1.Regarding windows switching
 No exterenel websites not accessible
 Security
