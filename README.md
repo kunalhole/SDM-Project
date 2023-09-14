@@ -6,16 +6,16 @@
 
 ### CEO
 
-- Marketing and Promotion
+- Marketing and Promotion.
 
 ### Project Manager
 
-- Product Recommendations
+- Product Recommendations.
 
 ### Delivery Person
 
-- Navigation
+- Navigation.
 
 ### End User
 
-- Order Tracking
+- Order Tracking.
