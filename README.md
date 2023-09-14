@@ -18,5 +18,5 @@
 
 ### End User
 
-- Order Tracking
-- Help Center 
+- Order Tracking.
+- Help Center.
