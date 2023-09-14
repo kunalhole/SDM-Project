@@ -7,6 +7,7 @@
 ### CEO
 
 - Marketing and Promotion
+- customer satisfaction 
 
 ### Project Manager
 
@@ -20,3 +21,4 @@
 
 - Order Tracking.
 - Help Center.
+- packaging standards should define and visible.
