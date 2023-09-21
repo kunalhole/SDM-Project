@@ -9,7 +9,7 @@
 ## 3.SOLID:
 
 ### S : Single Responsibility Principle :
-## A class should have only one reason to change. This means a class should have only one job or responsibility.
+### A class should have only one reason to change. This means a class should have only one job or responsibility.
 
 ### O : Open for extension, close for modification :
 ### Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This suggests that the behavior of a module can be extended without modifying its source code.
