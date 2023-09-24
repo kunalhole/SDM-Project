@@ -8,6 +8,7 @@
 ## Eligibility
 - True data provide by student.
 - Verification done by system as per criteria automatically.
+- verification done by system after sellection of particular cources by student.
 
 ## Exam
 - Registerd candidate gets syllabus,credential,announcements and instructions 
